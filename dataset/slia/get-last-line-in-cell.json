@@ -1,0 +1,50 @@
+{
+    "terminals": [
+        "",
+        " ",
+        "/n",
+        -1,
+        0,
+        1,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "11/1/2015 - First call/n12/3/2015-order placed/n11/15/2015-follow-up,interested"
+            ],
+            "output": "11/15/2015-follow-up,interested"
+        },
+        {
+            "inputs": [
+                "11/1/2015 - First call/n12/3/2015-order placed"
+            ],
+            "output": "12/3/2015-order placed"
+        },
+        {
+            "inputs": [
+                "11/1/2015 - First call"
+            ],
+            "output": "11/1/2015 - First call"
+        }
+    ]
+}

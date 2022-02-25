@@ -1,0 +1,53 @@
+{
+    "terminals": [
+        "",
+        " ",
+        "_acme.com",
+        -1,
+        0,
+        1,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "brown",
+                "traci"
+            ],
+            "output": "tbrown_acme.com"
+        },
+        {
+            "inputs": [
+                "thomas",
+                "linda"
+            ],
+            "output": "lthomas_acme.com"
+        },
+        {
+            "inputs": [
+                "ward",
+                "jack"
+            ],
+            "output": "jward_acme.com"
+        }
+    ]
+}

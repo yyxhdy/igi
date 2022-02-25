@@ -1,0 +1,61 @@
+{
+    "terminals": [
+        "",
+        " ",
+        "_",
+        -1,
+        0,
+        1,
+        2,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "011016_assignment.xlsx",
+                1
+            ],
+            "output": "011016"
+        },
+        {
+            "inputs": [
+                "011016_assignment.xlsx",
+                2
+            ],
+            "output": "assignment.xlsx"
+        },
+        {
+            "inputs": [
+                "030116_cost.xlsx",
+                1
+            ],
+            "output": "030116"
+        },
+        {
+            "inputs": [
+                "030116_cost.xlsx",
+                2
+            ],
+            "output": "cost.xlsx"
+        }
+    ]
+}

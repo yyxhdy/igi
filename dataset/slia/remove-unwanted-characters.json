@@ -1,0 +1,66 @@
+{
+    "terminals": [
+        "",
+        " ",
+        -1,
+        0,
+        1,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "zx66448",
+                "z"
+            ],
+            "output": "x66448"
+        },
+        {
+            "inputs": [
+                "zx66448",
+                "x"
+            ],
+            "output": "z66448"
+        },
+        {
+            "inputs": [
+                "zx66448",
+                "6"
+            ],
+            "output": "zx448"
+        },
+        {
+            "inputs": [
+                "zx66448",
+                "4"
+            ],
+            "output": "zx668"
+        },
+        {
+            "inputs": [
+                "zx66448",
+                "8"
+            ],
+            "output": "zx6644"
+        }
+    ]
+}

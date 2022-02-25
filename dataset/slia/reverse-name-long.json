@@ -1,0 +1,377 @@
+{
+    "terminals": [
+        " ",
+        0,
+        1,
+        2,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IND",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "Launa",
+                "Withers"
+            ],
+            "output": "Withers Launa"
+        },
+        {
+            "inputs": [
+                "Lakenya",
+                "Edison"
+            ],
+            "output": "Edison Lakenya"
+        },
+        {
+            "inputs": [
+                "Brendan",
+                "Hage"
+            ],
+            "output": "Hage Brendan"
+        },
+        {
+            "inputs": [
+                "Bradford",
+                "Lango"
+            ],
+            "output": "Lango Bradford"
+        },
+        {
+            "inputs": [
+                "Rudolf",
+                "Akiyama"
+            ],
+            "output": "Akiyama Rudolf"
+        },
+        {
+            "inputs": [
+                "Lara",
+                "Constable"
+            ],
+            "output": "Constable Lara"
+        },
+        {
+            "inputs": [
+                "Madelaine",
+                "Ghoston"
+            ],
+            "output": "Ghoston Madelaine"
+        },
+        {
+            "inputs": [
+                "Salley",
+                "Hornak"
+            ],
+            "output": "Hornak Salley"
+        },
+        {
+            "inputs": [
+                "Micha",
+                "Junkin"
+            ],
+            "output": "Junkin Micha"
+        },
+        {
+            "inputs": [
+                "Teddy",
+                "Bobo"
+            ],
+            "output": "Bobo Teddy"
+        },
+        {
+            "inputs": [
+                "Coralee",
+                "Scalia"
+            ],
+            "output": "Scalia Coralee"
+        },
+        {
+            "inputs": [
+                "Jeff",
+                "Quashie"
+            ],
+            "output": "Quashie Jeff"
+        },
+        {
+            "inputs": [
+                "Vena",
+                "Babiarz"
+            ],
+            "output": "Babiarz Vena"
+        },
+        {
+            "inputs": [
+                "Karrie",
+                "Lain"
+            ],
+            "output": "Lain Karrie"
+        },
+        {
+            "inputs": [
+                "Tobias",
+                "Dermody"
+            ],
+            "output": "Dermody Tobias"
+        },
+        {
+            "inputs": [
+                "Celsa",
+                "Hopkins"
+            ],
+            "output": "Hopkins Celsa"
+        },
+        {
+            "inputs": [
+                "Kimberley",
+                "Halpern"
+            ],
+            "output": "Halpern Kimberley"
+        },
+        {
+            "inputs": [
+                "Phillip",
+                "Rowden"
+            ],
+            "output": "Rowden Phillip"
+        },
+        {
+            "inputs": [
+                "Elias",
+                "Neil"
+            ],
+            "output": "Neil Elias"
+        },
+        {
+            "inputs": [
+                "Lashanda",
+                "Cortes"
+            ],
+            "output": "Cortes Lashanda"
+        },
+        {
+            "inputs": [
+                "Mackenzie",
+                "Spell"
+            ],
+            "output": "Spell Mackenzie"
+        },
+        {
+            "inputs": [
+                "Kathlyn",
+                "Eccleston"
+            ],
+            "output": "Eccleston Kathlyn"
+        },
+        {
+            "inputs": [
+                "Georgina",
+                "Brescia"
+            ],
+            "output": "Brescia Georgina"
+        },
+        {
+            "inputs": [
+                "Beata",
+                "Miah"
+            ],
+            "output": "Miah Beata"
+        },
+        {
+            "inputs": [
+                "Desiree",
+                "Seamons"
+            ],
+            "output": "Seamons Desiree"
+        },
+        {
+            "inputs": [
+                "Jeanice",
+                "Soderstrom"
+            ],
+            "output": "Soderstrom Jeanice"
+        },
+        {
+            "inputs": [
+                "Mariel",
+                "Jurgens"
+            ],
+            "output": "Jurgens Mariel"
+        },
+        {
+            "inputs": [
+                "Alida",
+                "Bogle"
+            ],
+            "output": "Bogle Alida"
+        },
+        {
+            "inputs": [
+                "Jacqualine",
+                "Olague"
+            ],
+            "output": "Olague Jacqualine"
+        },
+        {
+            "inputs": [
+                "Joaquin",
+                "Clasen"
+            ],
+            "output": "Clasen Joaquin"
+        },
+        {
+            "inputs": [
+                "Samuel",
+                "Richert"
+            ],
+            "output": "Richert Samuel"
+        },
+        {
+            "inputs": [
+                "Malissa",
+                "Marcus"
+            ],
+            "output": "Marcus Malissa"
+        },
+        {
+            "inputs": [
+                "Alaina",
+                "Partida"
+            ],
+            "output": "Partida Alaina"
+        },
+        {
+            "inputs": [
+                "Trinidad",
+                "Mulloy"
+            ],
+            "output": "Mulloy Trinidad"
+        },
+        {
+            "inputs": [
+                "Carlene",
+                "Garrard"
+            ],
+            "output": "Garrard Carlene"
+        },
+        {
+            "inputs": [
+                "Melodi",
+                "Chism"
+            ],
+            "output": "Chism Melodi"
+        },
+        {
+            "inputs": [
+                "Bess",
+                "Chilcott"
+            ],
+            "output": "Chilcott Bess"
+        },
+        {
+            "inputs": [
+                "Chong",
+                "Aylward"
+            ],
+            "output": "Aylward Chong"
+        },
+        {
+            "inputs": [
+                "Jani",
+                "Ramthun"
+            ],
+            "output": "Ramthun Jani"
+        },
+        {
+            "inputs": [
+                "Jacquiline",
+                "Heintz"
+            ],
+            "output": "Heintz Jacquiline"
+        },
+        {
+            "inputs": [
+                "Hayley",
+                "Marquess"
+            ],
+            "output": "Marquess Hayley"
+        },
+        {
+            "inputs": [
+                "Andria",
+                "Spagnoli"
+            ],
+            "output": "Spagnoli Andria"
+        },
+        {
+            "inputs": [
+                "Irwin",
+                "Covelli"
+            ],
+            "output": "Covelli Irwin"
+        },
+        {
+            "inputs": [
+                "Gertude",
+                "Montiel"
+            ],
+            "output": "Montiel Gertude"
+        },
+        {
+            "inputs": [
+                "Stefany",
+                "Reily"
+            ],
+            "output": "Reily Stefany"
+        },
+        {
+            "inputs": [
+                "Rae",
+                "Mcgaughey"
+            ],
+            "output": "Mcgaughey Rae"
+        },
+        {
+            "inputs": [
+                "Cruz",
+                "Latimore"
+            ],
+            "output": "Latimore Cruz"
+        },
+        {
+            "inputs": [
+                "Maryann",
+                "Casler"
+            ],
+            "output": "Casler Maryann"
+        },
+        {
+            "inputs": [
+                "Annalisa",
+                "Gregori"
+            ],
+            "output": "Gregori Annalisa"
+        },
+        {
+            "inputs": [
+                "Jenee",
+                "Pannell"
+            ],
+            "output": "Pannell Jenee"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "terminals": [
+        "",
+        " ",
+        -1,
+        0,
+        1,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "1234",
+                1
+            ],
+            "output": "234"
+        },
+        {
+            "inputs": [
+                "**512A",
+                2
+            ],
+            "output": "512A"
+        },
+        {
+            "inputs": [
+                "343DMX",
+                3
+            ],
+            "output": "DMX"
+        }
+    ]
+}

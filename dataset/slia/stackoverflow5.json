@@ -1,0 +1,48 @@
+{
+    "terminals": [
+        "",
+        " ",
+        "0",
+        "1",
+        "4",
+        "5",
+        "9",
+        -1,
+        0,
+        1,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "valentine day=1915=50==7.1=45"
+            ],
+            "output": "valentine day"
+        },
+        {
+            "inputs": [
+                "movie blah=2blahblah, The=1914=54==7.9=17"
+            ],
+            "output": "movie blah=2blahblah, The"
+        }
+    ]
+}

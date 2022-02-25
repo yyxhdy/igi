@@ -1,0 +1,59 @@
+{
+    "terminals": [
+        "",
+        " ",
+        "%",
+        "%",
+        -1,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "100 apples"
+            ],
+            "output": "100"
+        },
+        {
+            "inputs": [
+                "the price is %500 dollars"
+            ],
+            "output": "500"
+        },
+        {
+            "inputs": [
+                "serial number %003399"
+            ],
+            "output": "003399"
+        }
+    ]
+}

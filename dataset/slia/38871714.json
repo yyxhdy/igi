@@ -1,0 +1,45 @@
+{
+    "terminals": [
+        "",
+        " ",
+        "<",
+        ">",
+        -1,
+        0,
+        1,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "This is a <string>, It should be <changed> to <a> number."
+            ],
+            "output": "This is a string, It should be changed to a number."
+        },
+        {
+            "inputs": [
+                "a < 4 and a > 0"
+            ],
+            "output": "a  4 and a  0"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "terminals": [
+        "",
+        " ",
+        -1,
+        0,
+        1,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "John Doe"
+            ],
+            "output": "J Doe"
+        },
+        {
+            "inputs": [
+                "Mayur Naik"
+            ],
+            "output": "M Naik"
+        },
+        {
+            "inputs": [
+                "Nimit Singh"
+            ],
+            "output": "N Singh"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "terminals": [
+        "",
+        " ",
+        -1,
+        0,
+        1,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "Sarah Jane Jones"
+            ],
+            "output": "Jones"
+        },
+        {
+            "inputs": [
+                "Bob Jane Smithfield"
+            ],
+            "output": "Smithfield"
+        }
+    ]
+}

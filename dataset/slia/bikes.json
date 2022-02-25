@@ -1,0 +1,66 @@
+{
+    "terminals": [
+        " ",
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IND",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "Ducati100"
+            ],
+            "output": "Ducati"
+        },
+        {
+            "inputs": [
+                "Honda125"
+            ],
+            "output": "Honda"
+        },
+        {
+            "inputs": [
+                "Ducati250"
+            ],
+            "output": "Ducati"
+        },
+        {
+            "inputs": [
+                "Honda250"
+            ],
+            "output": "Honda"
+        },
+        {
+            "inputs": [
+                "Honda550"
+            ],
+            "output": "Honda"
+        },
+        {
+            "inputs": [
+                "Ducati125"
+            ],
+            "output": "Ducati"
+        }
+    ]
+}

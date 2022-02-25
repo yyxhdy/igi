@@ -1,0 +1,53 @@
+{
+    "terminals": [
+        " ",
+        ".",
+        0,
+        1,
+        2,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "IND",
+        "PRF",
+        "SUF"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "Nancy",
+                "FreeHafer"
+            ],
+            "output": "Nancy F."
+        },
+        {
+            "inputs": [
+                "Andrew",
+                "Cencici"
+            ],
+            "output": "Andrew C."
+        },
+        {
+            "inputs": [
+                "Jan",
+                "Kotas"
+            ],
+            "output": "Jan K."
+        },
+        {
+            "inputs": [
+                "Mariya",
+                "Sergienko"
+            ],
+            "output": "Mariya S."
+        }
+    ]
+}

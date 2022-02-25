@@ -1,0 +1,53 @@
+{
+    "terminals": [
+        "",
+        " ",
+        "<",
+        ">",
+        ",",
+        "/",
+        -1,
+        0,
+        1,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "R/V<208,0,32>"
+            ],
+            "output": "R/V 208 0 32"
+        },
+        {
+            "inputs": [
+                "R/S<184,28,16>"
+            ],
+            "output": "R/S 184 28 16"
+        },
+        {
+            "inputs": [
+                "R/B<255,88,80>"
+            ],
+            "output": "R/B 255 88 80"
+        }
+    ]
+}

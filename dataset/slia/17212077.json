@@ -1,0 +1,50 @@
+{
+    "terminals": [
+        "",
+        " ",
+        "/",
+        -1,
+        0,
+        1,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "01/15/2013"
+            ],
+            "output": "01/2013"
+        },
+        {
+            "inputs": [
+                "03/07/2011"
+            ],
+            "output": "03/2011"
+        },
+        {
+            "inputs": [
+                "05/09/2009"
+            ],
+            "output": "05/2009"
+        }
+    ]
+}

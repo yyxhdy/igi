@@ -1,0 +1,44 @@
+{
+    "terminals": [
+        "",
+        " ",
+        "/",
+        -1,
+        0,
+        1,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "This is a line. /delete words in the area /keep this part"
+            ],
+            "output": "This is a line. keep this part"
+        },
+        {
+            "inputs": [
+                "/delete words in the area /"
+            ],
+            "output": ""
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "terminals": [
+        " ",
+        0,
+        1,
+        2,
+        3,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "IND",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "938-242-504"
+            ],
+            "output": "938"
+        },
+        {
+            "inputs": [
+                "308-916-545"
+            ],
+            "output": "308"
+        },
+        {
+            "inputs": [
+                "623-599-749"
+            ],
+            "output": "623"
+        },
+        {
+            "inputs": [
+                "981-424-843"
+            ],
+            "output": "981"
+        },
+        {
+            "inputs": [
+                "118-980-214"
+            ],
+            "output": "118"
+        },
+        {
+            "inputs": [
+                "244-655-094"
+            ],
+            "output": "244"
+        }
+    ]
+}

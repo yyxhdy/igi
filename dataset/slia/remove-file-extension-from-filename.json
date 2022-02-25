@@ -1,0 +1,56 @@
+{
+    "terminals": [
+        "",
+        " ",
+        ".",
+        -1,
+        0,
+        1,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "happy.jpg"
+            ],
+            "output": "happy"
+        },
+        {
+            "inputs": [
+                "pivot table.xls"
+            ],
+            "output": "pivot table"
+        },
+        {
+            "inputs": [
+                "sales data.csv"
+            ],
+            "output": "sales data"
+        },
+        {
+            "inputs": [
+                "invoice3001.xls.pdf"
+            ],
+            "output": "invoice3001"
+        }
+    ]
+}

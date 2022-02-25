@@ -1,0 +1,51 @@
+{
+    "terminals": [
+        " ",
+        0,
+        1,
+        2,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IND",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "Nancy FreeHafer"
+            ],
+            "output": "Nancy"
+        },
+        {
+            "inputs": [
+                "Andrew Cencici"
+            ],
+            "output": "Andrew"
+        },
+        {
+            "inputs": [
+                "Jan Kotas"
+            ],
+            "output": "Jan"
+        },
+        {
+            "inputs": [
+                "Mariya Sergienko"
+            ],
+            "output": "Mariya"
+        }
+    ]
+}

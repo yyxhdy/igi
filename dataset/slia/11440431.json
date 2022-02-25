@@ -1,0 +1,63 @@
+{
+    "terminals": [
+        "",
+        " ",
+        "US",
+        "CAN",
+        -1,
+        0,
+        1,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "Mining US"
+            ],
+            "output": "Mining"
+        },
+        {
+            "inputs": [
+                "Soybean Farming CAN"
+            ],
+            "output": "Soybean Farming"
+        },
+        {
+            "inputs": [
+                "Soybean Farming"
+            ],
+            "output": "Soybean Farming"
+        },
+        {
+            "inputs": [
+                "Oil Extraction US"
+            ],
+            "output": "Oil Extraction"
+        },
+        {
+            "inputs": [
+                "Fishing"
+            ],
+            "output": "Fishing"
+        }
+    ]
+}

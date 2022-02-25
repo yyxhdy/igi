@@ -1,0 +1,53 @@
+{
+    "terminals": [
+        "",
+        " ",
+        "_",
+        -1,
+        0,
+        1,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "ann chang",
+                "achang_maaker.com"
+            ],
+            "output": "achang"
+        },
+        {
+            "inputs": [
+                "bobby smith",
+                "bobt_sphynx.uk.co"
+            ],
+            "output": "bobt"
+        },
+        {
+            "inputs": [
+                "art lennox",
+                "art.lennox_svxn.com"
+            ],
+            "output": "art.lennox"
+        }
+    ]
+}

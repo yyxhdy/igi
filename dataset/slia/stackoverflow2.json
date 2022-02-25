@@ -1,0 +1,44 @@
+{
+    "terminals": [
+        "",
+        " ",
+        "in",
+        -1,
+        0,
+        1,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "india china japan"
+            ],
+            "output": "india china"
+        },
+        {
+            "inputs": [
+                "indonesia korea"
+            ],
+            "output": "indonesia"
+        }
+    ]
+}

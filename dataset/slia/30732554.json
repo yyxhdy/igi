@@ -1,0 +1,56 @@
+{
+    "terminals": [
+        "",
+        " ",
+        "|",
+        -1,
+        0,
+        1,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "TL-18273982| 10MM"
+            ],
+            "output": "TL-18273982"
+        },
+        {
+            "inputs": [
+                "TL-288762| 76DK"
+            ],
+            "output": "TL-288762"
+        },
+        {
+            "inputs": [
+                "CT-576"
+            ],
+            "output": "CT-576"
+        },
+        {
+            "inputs": [
+                "N/A"
+            ],
+            "output": "N/A"
+        }
+    ]
+}

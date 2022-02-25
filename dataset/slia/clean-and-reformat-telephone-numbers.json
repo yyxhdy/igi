@@ -1,0 +1,54 @@
+{
+    "terminals": [
+        "",
+        " ",
+        ",",
+        "-",
+        ".",
+        "<",
+        ">",
+        -1,
+        0,
+        1,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "801-456-8765"
+            ],
+            "output": "8014568765"
+        },
+        {
+            "inputs": [
+                "<978> 654-0299"
+            ],
+            "output": "9786540299"
+        },
+        {
+            "inputs": [
+                "978.654.0299"
+            ],
+            "output": "9786540299"
+        }
+    ]
+}

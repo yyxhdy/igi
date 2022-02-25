@@ -1,0 +1,55 @@
+{
+    "terminals": [
+        "",
+        " ",
+        "BRD",
+        "DRS",
+        "LDS",
+        "Branding",
+        "Direct Response",
+        "Leads",
+        -1,
+        0,
+        1,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "Adf_ROCLeader_BAN_728x90_CPM_STD _BRD _NRT_DCK"
+            ],
+            "output": "Adf_ROCLeader_BAN_728x90_CPM_STD _Branding _NRT_DCK"
+        },
+        {
+            "inputs": [
+                "MMC_ContextualLarRec_BAN_336x280_CPM_STD _LDS _RTG_DCK"
+            ],
+            "output": "MMC_ContextualLarRec_BAN_336x280_CPM_STD _Leads _RTG_DCK"
+        },
+        {
+            "inputs": [
+                "Adf_ROC_DLBD_728x90_CPM_STD_DRS_NRT_NOR_DCK"
+            ],
+            "output": "Adf_ROC_DLBD_728x90_CPM_STD_Direct Response_NRT_NOR_DCK"
+        }
+    ]
+}

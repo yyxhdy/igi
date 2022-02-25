@@ -1,0 +1,47 @@
+{
+    "terminals": [
+        "",
+        " ",
+        "/",
+        -1,
+        0,
+        1,
+        2,
+        3,
+        4,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "home/Excel/Sheet1.xls"
+            ],
+            "output": "Sheet1.xls"
+        },
+        {
+            "inputs": [
+                "home/user/Sheet1.xls"
+            ],
+            "output": "Sheet1.xls"
+        }
+    ]
+}

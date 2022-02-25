@@ -1,0 +1,53 @@
+{
+    "terminals": [
+        "",
+        " ",
+        -1,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "Tire Pressure ABC123873 Monitor"
+            ],
+            "output": "ABC123873"
+        },
+        {
+            "inputs": [
+                " Oil Life ABC849999999021 gauge"
+            ],
+            "output": "ABC849999999021"
+        },
+        {
+            "inputs": [
+                " Air conditioner GHF211 maintenance"
+            ],
+            "output": "GHF211"
+        }
+    ]
+}

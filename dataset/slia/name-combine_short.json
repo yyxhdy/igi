@@ -1,0 +1,66 @@
+{
+    "terminals": [
+        " ",
+        0,
+        1,
+        2,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "IND",
+        "PRF",
+        "SUF"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "Launa",
+                "Withers"
+            ],
+            "output": "Launa Withers"
+        },
+        {
+            "inputs": [
+                "Lakenya",
+                "Edison"
+            ],
+            "output": "Lakenya Edison"
+        },
+        {
+            "inputs": [
+                "Brendan",
+                "Hage"
+            ],
+            "output": "Brendan Hage"
+        },
+        {
+            "inputs": [
+                "Bradford",
+                "Lango"
+            ],
+            "output": "Bradford Lango"
+        },
+        {
+            "inputs": [
+                "Rudolf",
+                "Akiyama"
+            ],
+            "output": "Rudolf Akiyama"
+        },
+        {
+            "inputs": [
+                "Lara",
+                "Constable"
+            ],
+            "output": "Lara Constable"
+        }
+    ]
+}

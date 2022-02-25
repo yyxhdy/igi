@@ -1,0 +1,50 @@
+{
+    "terminals": [
+        "",
+        " ",
+        "/",
+        -1,
+        0,
+        1,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "c=/users/dave/shotcut.xls"
+            ],
+            "output": "shotcut.xls"
+        },
+        {
+            "inputs": [
+                "c=/users/dave/formulas.xls"
+            ],
+            "output": "formulas.xls"
+        },
+        {
+            "inputs": [
+                "c=/users/dave/pivot table.xls"
+            ],
+            "output": "pivot table.xls"
+        }
+    ]
+}

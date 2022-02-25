@@ -1,0 +1,94 @@
+{
+    "terminals": [
+        "",
+        " ",
+        "<",
+        ">",
+        ".",
+        -1,
+        0,
+        1,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "Jones <60>"
+            ],
+            "output": "J.60"
+        },
+        {
+            "inputs": [
+                "Bush <123>"
+            ],
+            "output": "B.123"
+        },
+        {
+            "inputs": [
+                "Parker <2>"
+            ],
+            "output": "P.2"
+        },
+        {
+            "inputs": [
+                "Nixon <389>"
+            ],
+            "output": "N.389"
+        },
+        {
+            "inputs": [
+                "Johnson <67>"
+            ],
+            "output": "J.67"
+        },
+        {
+            "inputs": [
+                "Smith <3>"
+            ],
+            "output": "S.3"
+        },
+        {
+            "inputs": [
+                "Arnot <66>"
+            ],
+            "output": "A.66"
+        },
+        {
+            "inputs": [
+                "Jordan <438>"
+            ],
+            "output": "J.438"
+        },
+        {
+            "inputs": [
+                "Forest <9>"
+            ],
+            "output": "F.9"
+        },
+        {
+            "inputs": [
+                "Eberhardt <31>"
+            ],
+            "output": "E.31"
+        }
+    ]
+}

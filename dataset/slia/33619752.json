@@ -1,0 +1,77 @@
+{
+    "terminals": [
+        "",
+        " ",
+        "Inc",
+        "Company",
+        "Corporation",
+        "Enterprises",
+        -1,
+        0,
+        1,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "General Electric"
+            ],
+            "output": "General Electric"
+        },
+        {
+            "inputs": [
+                "General Electric Inc"
+            ],
+            "output": "General Electric"
+        },
+        {
+            "inputs": [
+                "General Electric Company"
+            ],
+            "output": "General Electric"
+        },
+        {
+            "inputs": [
+                "Microsoft"
+            ],
+            "output": "Microsoft"
+        },
+        {
+            "inputs": [
+                "Microsoft Corporation"
+            ],
+            "output": "Microsoft"
+        },
+        {
+            "inputs": [
+                "Nintendo"
+            ],
+            "output": "Nintendo"
+        },
+        {
+            "inputs": [
+                "Nintendo Enterprises"
+            ],
+            "output": "Nintendo"
+        }
+    ]
+}

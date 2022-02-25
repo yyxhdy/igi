@@ -1,0 +1,68 @@
+{
+    "terminals": [
+        "",
+        " ",
+        ".",
+        -1,
+        0,
+        1,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "AIX 5.1"
+            ],
+            "output": "5.1"
+        },
+        {
+            "inputs": [
+                "VMware ESX Server 3.5.0 build-110268"
+            ],
+            "output": "3.5"
+        },
+        {
+            "inputs": [
+                "Linux Linux 2.6 Linux"
+            ],
+            "output": "2.6"
+        },
+        {
+            "inputs": [
+                "Red Hat Enterprise AS 4 <2.6-78.0.13.ELlargesmp>"
+            ],
+            "output": "2.6"
+        },
+        {
+            "inputs": [
+                "Microsoft <R> Windows <R> 2000 Advanced Server 1.0"
+            ],
+            "output": "1.0"
+        },
+        {
+            "inputs": [
+                "Microsoft Windows XP Win2008R2 6.1.7601"
+            ],
+            "output": "6.1"
+        }
+    ]
+}

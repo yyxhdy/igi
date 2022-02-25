@@ -1,0 +1,61 @@
+{
+    "terminals": [
+        "",
+        " ",
+        -1,
+        0,
+        1,
+        2,
+        3,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "80v",
+                3
+            ],
+            "output": "80"
+        },
+        {
+            "inputs": [
+                "10hrs",
+                3
+            ],
+            "output": "10"
+        },
+        {
+            "inputs": [
+                "7h",
+                2
+            ],
+            "output": "7"
+        },
+        {
+            "inputs": [
+                "500m",
+                4
+            ],
+            "output": "500"
+        }
+    ]
+}

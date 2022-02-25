@@ -1,0 +1,168 @@
+{
+    "terminals": [
+        " ",
+        ",",
+        0,
+        1,
+        2,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IND",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "University of Pennsylvania",
+                "Phialdelphia, PA, USA"
+            ],
+            "output": "University of Pennsylvania, Phialdelphia, PA, USA"
+        },
+        {
+            "inputs": [
+                "UCLA",
+                "Los Angeles, CA"
+            ],
+            "output": "UCLA, Los Angeles, CA"
+        },
+        {
+            "inputs": [
+                "Cornell University",
+                "Ithaca, New York, USA"
+            ],
+            "output": "Cornell University, Ithaca, New York, USA"
+        },
+        {
+            "inputs": [
+                "Penn",
+                "Philadelphia, PA, USA"
+            ],
+            "output": "Penn, Philadelphia, PA, USA"
+        },
+        {
+            "inputs": [
+                "University of Maryland College Park",
+                "College Park, MD"
+            ],
+            "output": "University of Maryland College Park, College Park, MD"
+        },
+        {
+            "inputs": [
+                "University of Michigan",
+                "Ann Arbor, MI, USA"
+            ],
+            "output": "University of Michigan, Ann Arbor, MI, USA"
+        },
+        {
+            "inputs": [
+                "UC Berkeley",
+                "Berkeley, CA"
+            ],
+            "output": "UC Berkeley, Berkeley, CA"
+        },
+        {
+            "inputs": [
+                "MIT",
+                "Cambridge, MA"
+            ],
+            "output": "MIT, Cambridge, MA"
+        },
+        {
+            "inputs": [
+                "Rice University",
+                "Houston, TX"
+            ],
+            "output": "Rice University, Houston, TX"
+        },
+        {
+            "inputs": [
+                "Yale University",
+                "New Haven, CT, USA"
+            ],
+            "output": "Yale University, New Haven, CT, USA"
+        },
+        {
+            "inputs": [
+                "Columbia University",
+                "New York, NY, USA"
+            ],
+            "output": "Columbia University, New York, NY, USA"
+        },
+        {
+            "inputs": [
+                "NYU",
+                "New York, New York, USA"
+            ],
+            "output": "NYU, New York, New York, USA"
+        },
+        {
+            "inputs": [
+                "UC Berkeley",
+                "Berkeley, CA"
+            ],
+            "output": "UC Berkeley, Berkeley, CA"
+        },
+        {
+            "inputs": [
+                "UIUC",
+                "Urbana, IL"
+            ],
+            "output": "UIUC, Urbana, IL"
+        },
+        {
+            "inputs": [
+                "Temple University",
+                "Philadelphia, PA"
+            ],
+            "output": "Temple University, Philadelphia, PA"
+        },
+        {
+            "inputs": [
+                "Harvard University",
+                "Cambridge, MA, USA"
+            ],
+            "output": "Harvard University, Cambridge, MA, USA"
+        },
+        {
+            "inputs": [
+                "University of Connecticut",
+                "Storrs, CT, USA"
+            ],
+            "output": "University of Connecticut, Storrs, CT, USA"
+        },
+        {
+            "inputs": [
+                "Drexel University",
+                "Philadelphia, PA"
+            ],
+            "output": "Drexel University, Philadelphia, PA"
+        },
+        {
+            "inputs": [
+                "New Haven University",
+                "New Haven, CT, USA"
+            ],
+            "output": "New Haven University, New Haven, CT, USA"
+        },
+        {
+            "inputs": [
+                "University of California, Santa Barbara",
+                "Santa Barbara, CA, USA"
+            ],
+            "output": "University of California, Santa Barbara, Santa Barbara, CA, USA"
+        }
+    ]
+}

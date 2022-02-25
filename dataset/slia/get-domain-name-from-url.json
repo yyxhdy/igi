@@ -1,0 +1,52 @@
+{
+    "terminals": [
+        "",
+        " ",
+        "/",
+        -1,
+        0,
+        1,
+        2,
+        3,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "https=//abc.com/def"
+            ],
+            "output": "https=//abc.com/"
+        },
+        {
+            "inputs": [
+                "http=//www.abc.com/def/cef"
+            ],
+            "output": "http=//www.abc.com"
+        },
+        {
+            "inputs": [
+                "http=//chandoo.org/wp/def-def"
+            ],
+            "output": "http=//chandoo.org/"
+        }
+    ]
+}

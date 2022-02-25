@@ -1,0 +1,50 @@
+{
+    "terminals": [
+        " ",
+        ".",
+        "Dr.",
+        0,
+        1,
+        2,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "IND",
+        "PRF",
+        "SUF"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "Nancy FreeHafer"
+            ],
+            "output": "Dr. Nancy"
+        },
+        {
+            "inputs": [
+                "Andrew Cencici"
+            ],
+            "output": "Dr. Andrew"
+        },
+        {
+            "inputs": [
+                "Jan Kotas"
+            ],
+            "output": "Dr. Jan"
+        },
+        {
+            "inputs": [
+                "Mariya Sergienko"
+            ],
+            "output": "Dr. Mariya"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "terminals": [
+        "",
+        " ",
+        -1,
+        0,
+        1,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "Item 1 AQ-S810W-2AVDF",
+                "AQ-S810W-2AVDF"
+            ],
+            "output": "Item 1"
+        },
+        {
+            "inputs": [
+                "Item 2 AQ-230A-1DUQ",
+                "AQ-230A"
+            ],
+            "output": "Item 2 -1DUQ"
+        }
+    ]
+}

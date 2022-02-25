@@ -1,0 +1,331 @@
+{
+    "terminals": [
+        " ",
+        ".",
+        "Dr.",
+        "D",
+        "r",
+        0,
+        1,
+        2,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IND",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "Launa Withers"
+            ],
+            "output": "Dr. Launa"
+        },
+        {
+            "inputs": [
+                "Lakenya Edison"
+            ],
+            "output": "Dr. Lakenya"
+        },
+        {
+            "inputs": [
+                "Brendan Hage"
+            ],
+            "output": "Dr. Brendan"
+        },
+        {
+            "inputs": [
+                "Bradford Lango"
+            ],
+            "output": "Dr. Bradford"
+        },
+        {
+            "inputs": [
+                "Rudolf Akiyama"
+            ],
+            "output": "Dr. Rudolf"
+        },
+        {
+            "inputs": [
+                "Lara Constable"
+            ],
+            "output": "Dr. Lara"
+        },
+        {
+            "inputs": [
+                "Madelaine Ghoston"
+            ],
+            "output": "Dr. Madelaine"
+        },
+        {
+            "inputs": [
+                "Salley Hornak"
+            ],
+            "output": "Dr. Salley"
+        },
+        {
+            "inputs": [
+                "Micha Junkin"
+            ],
+            "output": "Dr. Micha"
+        },
+        {
+            "inputs": [
+                "Teddy Bobo"
+            ],
+            "output": "Dr. Teddy"
+        },
+        {
+            "inputs": [
+                "Coralee Scalia"
+            ],
+            "output": "Dr. Coralee"
+        },
+        {
+            "inputs": [
+                "Jeff Quashie"
+            ],
+            "output": "Dr. Jeff"
+        },
+        {
+            "inputs": [
+                "Vena Babiarz"
+            ],
+            "output": "Dr. Vena"
+        },
+        {
+            "inputs": [
+                "Karrie Lain"
+            ],
+            "output": "Dr. Karrie"
+        },
+        {
+            "inputs": [
+                "Tobias Dermody"
+            ],
+            "output": "Dr. Tobias"
+        },
+        {
+            "inputs": [
+                "Celsa Hopkins"
+            ],
+            "output": "Dr. Celsa"
+        },
+        {
+            "inputs": [
+                "Kimberley Halpern"
+            ],
+            "output": "Dr. Kimberley"
+        },
+        {
+            "inputs": [
+                "Phillip Rowden"
+            ],
+            "output": "Dr. Phillip"
+        },
+        {
+            "inputs": [
+                "Elias Neil"
+            ],
+            "output": "Dr. Elias"
+        },
+        {
+            "inputs": [
+                "Lashanda Cortes"
+            ],
+            "output": "Dr. Lashanda"
+        },
+        {
+            "inputs": [
+                "Mackenzie Spell"
+            ],
+            "output": "Dr. Mackenzie"
+        },
+        {
+            "inputs": [
+                "Kathlyn Eccleston"
+            ],
+            "output": "Dr. Kathlyn"
+        },
+        {
+            "inputs": [
+                "Georgina Brescia"
+            ],
+            "output": "Dr. Georgina"
+        },
+        {
+            "inputs": [
+                "Beata Miah"
+            ],
+            "output": "Dr. Beata"
+        },
+        {
+            "inputs": [
+                "Desiree Seamons"
+            ],
+            "output": "Dr. Desiree"
+        },
+        {
+            "inputs": [
+                "Jeanice Soderstrom"
+            ],
+            "output": "Dr. Jeanice"
+        },
+        {
+            "inputs": [
+                "Mariel Jurgens"
+            ],
+            "output": "Dr. Mariel"
+        },
+        {
+            "inputs": [
+                "Alida Bogle"
+            ],
+            "output": "Dr. Alida"
+        },
+        {
+            "inputs": [
+                "Jacqualine Olague"
+            ],
+            "output": "Dr. Jacqualine"
+        },
+        {
+            "inputs": [
+                "Joaquin Clasen"
+            ],
+            "output": "Dr. Joaquin"
+        },
+        {
+            "inputs": [
+                "Samuel Richert"
+            ],
+            "output": "Dr. Samuel"
+        },
+        {
+            "inputs": [
+                "Malissa Marcus"
+            ],
+            "output": "Dr. Malissa"
+        },
+        {
+            "inputs": [
+                "Alaina Partida"
+            ],
+            "output": "Dr. Alaina"
+        },
+        {
+            "inputs": [
+                "Trinidad Mulloy"
+            ],
+            "output": "Dr. Trinidad"
+        },
+        {
+            "inputs": [
+                "Carlene Garrard"
+            ],
+            "output": "Dr. Carlene"
+        },
+        {
+            "inputs": [
+                "Melodi Chism"
+            ],
+            "output": "Dr. Melodi"
+        },
+        {
+            "inputs": [
+                "Bess Chilcott"
+            ],
+            "output": "Dr. Bess"
+        },
+        {
+            "inputs": [
+                "Chong Aylward"
+            ],
+            "output": "Dr. Chong"
+        },
+        {
+            "inputs": [
+                "Jani Ramthun"
+            ],
+            "output": "Dr. Jani"
+        },
+        {
+            "inputs": [
+                "Jacquiline Heintz"
+            ],
+            "output": "Dr. Jacquiline"
+        },
+        {
+            "inputs": [
+                "Hayley Marquess"
+            ],
+            "output": "Dr. Hayley"
+        },
+        {
+            "inputs": [
+                "Andria Spagnoli"
+            ],
+            "output": "Dr. Andria"
+        },
+        {
+            "inputs": [
+                "Irwin Covelli"
+            ],
+            "output": "Dr. Irwin"
+        },
+        {
+            "inputs": [
+                "Gertude Montiel"
+            ],
+            "output": "Dr. Gertude"
+        },
+        {
+            "inputs": [
+                "Stefany Reily"
+            ],
+            "output": "Dr. Stefany"
+        },
+        {
+            "inputs": [
+                "Rae Mcgaughey"
+            ],
+            "output": "Dr. Rae"
+        },
+        {
+            "inputs": [
+                "Cruz Latimore"
+            ],
+            "output": "Dr. Cruz"
+        },
+        {
+            "inputs": [
+                "Maryann Casler"
+            ],
+            "output": "Dr. Maryann"
+        },
+        {
+            "inputs": [
+                "Annalisa Gregori"
+            ],
+            "output": "Dr. Annalisa"
+        },
+        {
+            "inputs": [
+                "Jenee Pannell"
+            ],
+            "output": "Dr. Jenee"
+        }
+    ]
+}

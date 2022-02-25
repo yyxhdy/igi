@@ -1,0 +1,45 @@
+{
+    "terminals": [
+        "",
+        " ",
+        "=",
+        "-",
+        -1,
+        0,
+        1,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "Dec 2, 2014, 11=23 PM - +91 90000 80000= loren ipsum"
+            ],
+            "output": "loren ipsum"
+        },
+        {
+            "inputs": [
+                "Dec 2, 2014, 11=24 PM - +91 90000 80000= loren"
+            ],
+            "output": "loren"
+        }
+    ]
+}

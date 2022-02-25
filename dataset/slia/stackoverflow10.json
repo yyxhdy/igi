@@ -1,0 +1,131 @@
+{
+    "terminals": [
+        "",
+        " ",
+        -1,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "April 1 1799"
+            ],
+            "output": "1799"
+        },
+        {
+            "inputs": [
+                "April 11 1867"
+            ],
+            "output": "1867"
+        },
+        {
+            "inputs": [
+                "February 12 1806"
+            ],
+            "output": "1806"
+        },
+        {
+            "inputs": [
+                "February 21 1798"
+            ],
+            "output": "1798"
+        },
+        {
+            "inputs": [
+                "February 28 1844 as Delaware Township"
+            ],
+            "output": "1844"
+        },
+        {
+            "inputs": [
+                "February 5 1798"
+            ],
+            "output": "1798"
+        },
+        {
+            "inputs": [
+                "February 7 1892 Verona Township"
+            ],
+            "output": "1892"
+        },
+        {
+            "inputs": [
+                "February 9 1797"
+            ],
+            "output": "1797"
+        },
+        {
+            "inputs": [
+                "January 19 1748"
+            ],
+            "output": "1748"
+        },
+        {
+            "inputs": [
+                "July 10 1721 as Upper Penns Neck Township"
+            ],
+            "output": "1721"
+        },
+        {
+            "inputs": [
+                "March 15 1860"
+            ],
+            "output": "1860"
+        },
+        {
+            "inputs": [
+                "March 17 1870 <as Raritan Township>"
+            ],
+            "output": "1870"
+        },
+        {
+            "inputs": [
+                "March 17 1874"
+            ],
+            "output": "1874"
+        },
+        {
+            "inputs": [
+                "March 23 1864"
+            ],
+            "output": "1864"
+        },
+        {
+            "inputs": [
+                "March 5 1867"
+            ],
+            "output": "1867"
+        },
+        {
+            "inputs": [
+                "April 28th 1828"
+            ],
+            "output": "1828"
+        }
+    ]
+}

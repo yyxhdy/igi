@@ -1,0 +1,378 @@
+{
+    "terminals": [
+        " ",
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IND",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "Ducati100"
+            ],
+            "output": "Ducati"
+        },
+        {
+            "inputs": [
+                "Ducati100"
+            ],
+            "output": "Ducati"
+        },
+        {
+            "inputs": [
+                "Ducati100"
+            ],
+            "output": "Ducati"
+        },
+        {
+            "inputs": [
+                "Honda125"
+            ],
+            "output": "Honda"
+        },
+        {
+            "inputs": [
+                "Honda125"
+            ],
+            "output": "Honda"
+        },
+        {
+            "inputs": [
+                "Honda125"
+            ],
+            "output": "Honda"
+        },
+        {
+            "inputs": [
+                "Ducati250"
+            ],
+            "output": "Ducati"
+        },
+        {
+            "inputs": [
+                "Ducati250"
+            ],
+            "output": "Ducati"
+        },
+        {
+            "inputs": [
+                "Ducati250"
+            ],
+            "output": "Ducati"
+        },
+        {
+            "inputs": [
+                "Honda250"
+            ],
+            "output": "Honda"
+        },
+        {
+            "inputs": [
+                "Honda250"
+            ],
+            "output": "Honda"
+        },
+        {
+            "inputs": [
+                "Honda250"
+            ],
+            "output": "Honda"
+        },
+        {
+            "inputs": [
+                "Honda550"
+            ],
+            "output": "Honda"
+        },
+        {
+            "inputs": [
+                "Honda550"
+            ],
+            "output": "Honda"
+        },
+        {
+            "inputs": [
+                "Honda550"
+            ],
+            "output": "Honda"
+        },
+        {
+            "inputs": [
+                "Ducati125"
+            ],
+            "output": "Ducati"
+        },
+        {
+            "inputs": [
+                "Ducati125"
+            ],
+            "output": "Ducati"
+        },
+        {
+            "inputs": [
+                "Ducati125"
+            ],
+            "output": "Ducati"
+        },
+        {
+            "inputs": [
+                "Acura100"
+            ],
+            "output": "Acura"
+        },
+        {
+            "inputs": [
+                "Acura100"
+            ],
+            "output": "Acura"
+        },
+        {
+            "inputs": [
+                "Acura100"
+            ],
+            "output": "Acura"
+        },
+        {
+            "inputs": [
+                "Acura125"
+            ],
+            "output": "Acura"
+        },
+        {
+            "inputs": [
+                "Ferrari250"
+            ],
+            "output": "Ferrari"
+        },
+        {
+            "inputs": [
+                "Ferrari250"
+            ],
+            "output": "Ferrari"
+        },
+        {
+            "inputs": [
+                "Ferrari250"
+            ],
+            "output": "Ferrari"
+        },
+        {
+            "inputs": [
+                "Ferrari250"
+            ],
+            "output": "Ferrari"
+        },
+        {
+            "inputs": [
+                "Honda550"
+            ],
+            "output": "Honda"
+        },
+        {
+            "inputs": [
+                "Honda550"
+            ],
+            "output": "Honda"
+        },
+        {
+            "inputs": [
+                "Honda550"
+            ],
+            "output": "Honda"
+        },
+        {
+            "inputs": [
+                "Ducati125"
+            ],
+            "output": "Ducati"
+        },
+        {
+            "inputs": [
+                "Ducati125"
+            ],
+            "output": "Ducati"
+        },
+        {
+            "inputs": [
+                "Ducati125"
+            ],
+            "output": "Ducati"
+        },
+        {
+            "inputs": [
+                "Ducati100"
+            ],
+            "output": "Ducati"
+        },
+        {
+            "inputs": [
+                "Honda125"
+            ],
+            "output": "Honda"
+        },
+        {
+            "inputs": [
+                "Honda125"
+            ],
+            "output": "Honda"
+        },
+        {
+            "inputs": [
+                "Honda125"
+            ],
+            "output": "Honda"
+        },
+        {
+            "inputs": [
+                "Ducati250"
+            ],
+            "output": "Ducati"
+        },
+        {
+            "inputs": [
+                "Honda250"
+            ],
+            "output": "Honda"
+        },
+        {
+            "inputs": [
+                "Honda250"
+            ],
+            "output": "Honda"
+        },
+        {
+            "inputs": [
+                "Honda250"
+            ],
+            "output": "Honda"
+        },
+        {
+            "inputs": [
+                "Honda550"
+            ],
+            "output": "Honda"
+        },
+        {
+            "inputs": [
+                "Ducati125"
+            ],
+            "output": "Ducati"
+        },
+        {
+            "inputs": [
+                "Ducati125"
+            ],
+            "output": "Ducati"
+        },
+        {
+            "inputs": [
+                "Ducati125"
+            ],
+            "output": "Ducati"
+        },
+        {
+            "inputs": [
+                "Acura100"
+            ],
+            "output": "Acura"
+        },
+        {
+            "inputs": [
+                "Acura125"
+            ],
+            "output": "Acura"
+        },
+        {
+            "inputs": [
+                "Acura125"
+            ],
+            "output": "Acura"
+        },
+        {
+            "inputs": [
+                "Acura125"
+            ],
+            "output": "Acura"
+        },
+        {
+            "inputs": [
+                "Ferrari250"
+            ],
+            "output": "Ferrari"
+        },
+        {
+            "inputs": [
+                "Ferrari250"
+            ],
+            "output": "Ferrari"
+        },
+        {
+            "inputs": [
+                "Ferrari250"
+            ],
+            "output": "Ferrari"
+        },
+        {
+            "inputs": [
+                "Honda550"
+            ],
+            "output": "Honda"
+        },
+        {
+            "inputs": [
+                "Honda550"
+            ],
+            "output": "Honda"
+        },
+        {
+            "inputs": [
+                "Honda550"
+            ],
+            "output": "Honda"
+        },
+        {
+            "inputs": [
+                "Ducati125"
+            ],
+            "output": "Ducati"
+        },
+        {
+            "inputs": [
+                "Ducati125"
+            ],
+            "output": "Ducati"
+        },
+        {
+            "inputs": [
+                "Ducati125"
+            ],
+            "output": "Ducati"
+        },
+        {
+            "inputs": [
+                "Ducati125"
+            ],
+            "output": "Ducati"
+        }
+    ]
+}

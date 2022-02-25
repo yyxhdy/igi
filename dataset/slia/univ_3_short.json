@@ -1,0 +1,74 @@
+{
+    "terminals": [
+        " ",
+        ",",
+        "USA",
+        "PA",
+        "CT",
+        "CA",
+        "MD",
+        "NY",
+        0,
+        1,
+        2,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "IND",
+        "PRF",
+        "SUF"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "University of Pennsylvania",
+                "Phialdelphia, PA, USA"
+            ],
+            "output": "Phialdelphia, PA, USA"
+        },
+        {
+            "inputs": [
+                "UCLA",
+                "Los Angeles, CA"
+            ],
+            "output": "Los Angeles, CA, USA"
+        },
+        {
+            "inputs": [
+                "Cornell University",
+                "Ithaca, New York, USA"
+            ],
+            "output": "Ithaca, New York, USA"
+        },
+        {
+            "inputs": [
+                "Penn",
+                "Philadelphia, PA, USA"
+            ],
+            "output": "Philadelphia, PA, USA"
+        },
+        {
+            "inputs": [
+                "University of Maryland College Park",
+                "College Park, MD"
+            ],
+            "output": "College Park, MD, USA"
+        },
+        {
+            "inputs": [
+                "University of Michigan",
+                "Ann Arbor, MI, USA"
+            ],
+            "output": "Ann Arbor, MI, USA"
+        }
+    ]
+}

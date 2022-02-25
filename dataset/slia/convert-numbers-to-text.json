@@ -1,0 +1,49 @@
+{
+    "terminals": [
+        "",
+        " ",
+        -1,
+        0,
+        1,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                101
+            ],
+            "output": "101"
+        },
+        {
+            "inputs": [
+                1002
+            ],
+            "output": "1002"
+        },
+        {
+            "inputs": [
+                743
+            ],
+            "output": "743"
+        }
+    ]
+}

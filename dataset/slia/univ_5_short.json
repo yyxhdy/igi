@@ -1,0 +1,109 @@
+{
+    "terminals": [
+        "New York",
+        " ",
+        ",",
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P",
+        "Q",
+        "R",
+        "S",
+        "T",
+        "U",
+        "V",
+        "W",
+        "X",
+        "Y",
+        "Z",
+        0,
+        1,
+        2,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "IND",
+        "PRF",
+        "SUF"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "University of Pennsylvania",
+                "Phialdelphia, PA, USA"
+            ],
+            "output": "Phialdelphia, PA, USA"
+        },
+        {
+            "inputs": [
+                "UCLA",
+                "Los Angeles, CA"
+            ],
+            "output": "Los Angeles, CA, USA"
+        },
+        {
+            "inputs": [
+                "Cornell University",
+                "Ithaca, New York, USA"
+            ],
+            "output": "Ithaca, NY, USA"
+        },
+        {
+            "inputs": [
+                "Penn",
+                "Philadelphia, PA, USA"
+            ],
+            "output": "Philadelphia, PA, USA"
+        },
+        {
+            "inputs": [
+                "University of Maryland College Park",
+                "College Park, MD"
+            ],
+            "output": "College Park, MD, USA"
+        },
+        {
+            "inputs": [
+                "University of Michigan",
+                "Ann Arbor, MI, USA"
+            ],
+            "output": "Ann Arbor, MI, USA"
+        },
+        {
+            "inputs": [
+                "Columbia University",
+                "New York, NY, USA"
+            ],
+            "output": "New York, NY, USA"
+        },
+        {
+            "inputs": [
+                "NYU",
+                "New York, New York, USA"
+            ],
+            "output": "New York, NY, USA"
+        }
+    ]
+}

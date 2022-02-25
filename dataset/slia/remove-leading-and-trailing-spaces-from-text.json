@@ -1,0 +1,49 @@
+{
+    "terminals": [
+        "",
+        " ",
+        -1,
+        0,
+        1,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "  The shawshank"
+            ],
+            "output": "The shawshank"
+        },
+        {
+            "inputs": [
+                "The    godfather"
+            ],
+            "output": "The godfather"
+        },
+        {
+            "inputs": [
+                "    pulp   fiction"
+            ],
+            "output": "pulp fiction"
+        }
+    ]
+}

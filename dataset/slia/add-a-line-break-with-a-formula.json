@@ -1,0 +1,56 @@
+{
+    "terminals": [
+        "",
+        " ",
+        "/n",
+        -1,
+        0,
+        1,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "Traci Brown",
+                "1301 Robinson Court",
+                "Saginaw, MI 48607"
+            ],
+            "output": "Traci Brown/n1301 Robinson Court/nSaginaw, MI 48607"
+        },
+        {
+            "inputs": [
+                "Mary Hannan",
+                "1195 Amethyst Drive",
+                "Lansing, MI 48933"
+            ],
+            "output": "Mary Hannan/n1195 Amethyst Drive/nLansing, MI 48933"
+        },
+        {
+            "inputs": [
+                "Linda Thomas",
+                "2479 North Bend Road",
+                "Allen, KY 41601"
+            ],
+            "output": "Linda Thomas/n2479 North Bend Road/nAllen, KY 41601"
+        }
+    ]
+}

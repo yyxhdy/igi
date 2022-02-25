@@ -1,0 +1,1250 @@
+{
+    "terminals": [
+        " ",
+        0,
+        1,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IND",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "Nancy FreeHafer"
+            ],
+            "output": "FreeHafer"
+        },
+        {
+            "inputs": [
+                "Andrew Cencici"
+            ],
+            "output": "Cencici"
+        },
+        {
+            "inputs": [
+                "Jan Kotas"
+            ],
+            "output": "Kotas"
+        },
+        {
+            "inputs": [
+                "Mariya Sergienko"
+            ],
+            "output": "Sergienko"
+        },
+        {
+            "inputs": [
+                "Launa Withers"
+            ],
+            "output": "Withers"
+        },
+        {
+            "inputs": [
+                "Launa Withers"
+            ],
+            "output": "Withers"
+        },
+        {
+            "inputs": [
+                "Launa Withers"
+            ],
+            "output": "Withers"
+        },
+        {
+            "inputs": [
+                "Lakenya Edison"
+            ],
+            "output": "Edison"
+        },
+        {
+            "inputs": [
+                "Lakenya Edison"
+            ],
+            "output": "Edison"
+        },
+        {
+            "inputs": [
+                "Lakenya Edison"
+            ],
+            "output": "Edison"
+        },
+        {
+            "inputs": [
+                "Brendan Hage"
+            ],
+            "output": "Hage"
+        },
+        {
+            "inputs": [
+                "Brendan Hage"
+            ],
+            "output": "Hage"
+        },
+        {
+            "inputs": [
+                "Brendan Hage"
+            ],
+            "output": "Hage"
+        },
+        {
+            "inputs": [
+                "Bradford Lango"
+            ],
+            "output": "Lango"
+        },
+        {
+            "inputs": [
+                "Bradford Lango"
+            ],
+            "output": "Lango"
+        },
+        {
+            "inputs": [
+                "Bradford Lango"
+            ],
+            "output": "Lango"
+        },
+        {
+            "inputs": [
+                "Rudolf Akiyama"
+            ],
+            "output": "Akiyama"
+        },
+        {
+            "inputs": [
+                "Rudolf Akiyama"
+            ],
+            "output": "Akiyama"
+        },
+        {
+            "inputs": [
+                "Rudolf Akiyama"
+            ],
+            "output": "Akiyama"
+        },
+        {
+            "inputs": [
+                "Lara Constable"
+            ],
+            "output": "Constable"
+        },
+        {
+            "inputs": [
+                "Lara Constable"
+            ],
+            "output": "Constable"
+        },
+        {
+            "inputs": [
+                "Lara Constable"
+            ],
+            "output": "Constable"
+        },
+        {
+            "inputs": [
+                "Madelaine Ghoston"
+            ],
+            "output": "Ghoston"
+        },
+        {
+            "inputs": [
+                "Madelaine Ghoston"
+            ],
+            "output": "Ghoston"
+        },
+        {
+            "inputs": [
+                "Madelaine Ghoston"
+            ],
+            "output": "Ghoston"
+        },
+        {
+            "inputs": [
+                "Salley Hornak"
+            ],
+            "output": "Hornak"
+        },
+        {
+            "inputs": [
+                "Salley Hornak"
+            ],
+            "output": "Hornak"
+        },
+        {
+            "inputs": [
+                "Salley Hornak"
+            ],
+            "output": "Hornak"
+        },
+        {
+            "inputs": [
+                "Micha Junkin"
+            ],
+            "output": "Junkin"
+        },
+        {
+            "inputs": [
+                "Micha Junkin"
+            ],
+            "output": "Junkin"
+        },
+        {
+            "inputs": [
+                "Micha Junkin"
+            ],
+            "output": "Junkin"
+        },
+        {
+            "inputs": [
+                "Teddy Bobo"
+            ],
+            "output": "Bobo"
+        },
+        {
+            "inputs": [
+                "Teddy Bobo"
+            ],
+            "output": "Bobo"
+        },
+        {
+            "inputs": [
+                "Teddy Bobo"
+            ],
+            "output": "Bobo"
+        },
+        {
+            "inputs": [
+                "Coralee Scalia"
+            ],
+            "output": "Scalia"
+        },
+        {
+            "inputs": [
+                "Coralee Scalia"
+            ],
+            "output": "Scalia"
+        },
+        {
+            "inputs": [
+                "Coralee Scalia"
+            ],
+            "output": "Scalia"
+        },
+        {
+            "inputs": [
+                "Jeff Quashie"
+            ],
+            "output": "Quashie"
+        },
+        {
+            "inputs": [
+                "Jeff Quashie"
+            ],
+            "output": "Quashie"
+        },
+        {
+            "inputs": [
+                "Jeff Quashie"
+            ],
+            "output": "Quashie"
+        },
+        {
+            "inputs": [
+                "Vena Babiarz"
+            ],
+            "output": "Babiarz"
+        },
+        {
+            "inputs": [
+                "Vena Babiarz"
+            ],
+            "output": "Babiarz"
+        },
+        {
+            "inputs": [
+                "Vena Babiarz"
+            ],
+            "output": "Babiarz"
+        },
+        {
+            "inputs": [
+                "Karrie Lain"
+            ],
+            "output": "Lain"
+        },
+        {
+            "inputs": [
+                "Karrie Lain"
+            ],
+            "output": "Lain"
+        },
+        {
+            "inputs": [
+                "Karrie Lain"
+            ],
+            "output": "Lain"
+        },
+        {
+            "inputs": [
+                "Tobias Dermody"
+            ],
+            "output": "Dermody"
+        },
+        {
+            "inputs": [
+                "Tobias Dermody"
+            ],
+            "output": "Dermody"
+        },
+        {
+            "inputs": [
+                "Tobias Dermody"
+            ],
+            "output": "Dermody"
+        },
+        {
+            "inputs": [
+                "Celsa Hopkins"
+            ],
+            "output": "Hopkins"
+        },
+        {
+            "inputs": [
+                "Celsa Hopkins"
+            ],
+            "output": "Hopkins"
+        },
+        {
+            "inputs": [
+                "Celsa Hopkins"
+            ],
+            "output": "Hopkins"
+        },
+        {
+            "inputs": [
+                "Kimberley Halpern"
+            ],
+            "output": "Halpern"
+        },
+        {
+            "inputs": [
+                "Kimberley Halpern"
+            ],
+            "output": "Halpern"
+        },
+        {
+            "inputs": [
+                "Kimberley Halpern"
+            ],
+            "output": "Halpern"
+        },
+        {
+            "inputs": [
+                "Phillip Rowden"
+            ],
+            "output": "Rowden"
+        },
+        {
+            "inputs": [
+                "Phillip Rowden"
+            ],
+            "output": "Rowden"
+        },
+        {
+            "inputs": [
+                "Phillip Rowden"
+            ],
+            "output": "Rowden"
+        },
+        {
+            "inputs": [
+                "Elias Neil"
+            ],
+            "output": "Neil"
+        },
+        {
+            "inputs": [
+                "Elias Neil"
+            ],
+            "output": "Neil"
+        },
+        {
+            "inputs": [
+                "Elias Neil"
+            ],
+            "output": "Neil"
+        },
+        {
+            "inputs": [
+                "Lashanda Cortes"
+            ],
+            "output": "Cortes"
+        },
+        {
+            "inputs": [
+                "Lashanda Cortes"
+            ],
+            "output": "Cortes"
+        },
+        {
+            "inputs": [
+                "Lashanda Cortes"
+            ],
+            "output": "Cortes"
+        },
+        {
+            "inputs": [
+                "Mackenzie Spell"
+            ],
+            "output": "Spell"
+        },
+        {
+            "inputs": [
+                "Mackenzie Spell"
+            ],
+            "output": "Spell"
+        },
+        {
+            "inputs": [
+                "Mackenzie Spell"
+            ],
+            "output": "Spell"
+        },
+        {
+            "inputs": [
+                "Kathlyn Eccleston"
+            ],
+            "output": "Eccleston"
+        },
+        {
+            "inputs": [
+                "Kathlyn Eccleston"
+            ],
+            "output": "Eccleston"
+        },
+        {
+            "inputs": [
+                "Kathlyn Eccleston"
+            ],
+            "output": "Eccleston"
+        },
+        {
+            "inputs": [
+                "Georgina Brescia"
+            ],
+            "output": "Brescia"
+        },
+        {
+            "inputs": [
+                "Georgina Brescia"
+            ],
+            "output": "Brescia"
+        },
+        {
+            "inputs": [
+                "Georgina Brescia"
+            ],
+            "output": "Brescia"
+        },
+        {
+            "inputs": [
+                "Beata Miah"
+            ],
+            "output": "Miah"
+        },
+        {
+            "inputs": [
+                "Beata Miah"
+            ],
+            "output": "Miah"
+        },
+        {
+            "inputs": [
+                "Beata Miah"
+            ],
+            "output": "Miah"
+        },
+        {
+            "inputs": [
+                "Desiree Seamons"
+            ],
+            "output": "Seamons"
+        },
+        {
+            "inputs": [
+                "Desiree Seamons"
+            ],
+            "output": "Seamons"
+        },
+        {
+            "inputs": [
+                "Desiree Seamons"
+            ],
+            "output": "Seamons"
+        },
+        {
+            "inputs": [
+                "Jeanice Soderstrom"
+            ],
+            "output": "Soderstrom"
+        },
+        {
+            "inputs": [
+                "Jeanice Soderstrom"
+            ],
+            "output": "Soderstrom"
+        },
+        {
+            "inputs": [
+                "Jeanice Soderstrom"
+            ],
+            "output": "Soderstrom"
+        },
+        {
+            "inputs": [
+                "Mariel Jurgens"
+            ],
+            "output": "Jurgens"
+        },
+        {
+            "inputs": [
+                "Mariel Jurgens"
+            ],
+            "output": "Jurgens"
+        },
+        {
+            "inputs": [
+                "Mariel Jurgens"
+            ],
+            "output": "Jurgens"
+        },
+        {
+            "inputs": [
+                "Alida Bogle"
+            ],
+            "output": "Bogle"
+        },
+        {
+            "inputs": [
+                "Alida Bogle"
+            ],
+            "output": "Bogle"
+        },
+        {
+            "inputs": [
+                "Alida Bogle"
+            ],
+            "output": "Bogle"
+        },
+        {
+            "inputs": [
+                "Jacqualine Olague"
+            ],
+            "output": "Olague"
+        },
+        {
+            "inputs": [
+                "Jacqualine Olague"
+            ],
+            "output": "Olague"
+        },
+        {
+            "inputs": [
+                "Jacqualine Olague"
+            ],
+            "output": "Olague"
+        },
+        {
+            "inputs": [
+                "Joaquin Clasen"
+            ],
+            "output": "Clasen"
+        },
+        {
+            "inputs": [
+                "Joaquin Clasen"
+            ],
+            "output": "Clasen"
+        },
+        {
+            "inputs": [
+                "Joaquin Clasen"
+            ],
+            "output": "Clasen"
+        },
+        {
+            "inputs": [
+                "Samuel Richert"
+            ],
+            "output": "Richert"
+        },
+        {
+            "inputs": [
+                "Samuel Richert"
+            ],
+            "output": "Richert"
+        },
+        {
+            "inputs": [
+                "Samuel Richert"
+            ],
+            "output": "Richert"
+        },
+        {
+            "inputs": [
+                "Malissa Marcus"
+            ],
+            "output": "Marcus"
+        },
+        {
+            "inputs": [
+                "Malissa Marcus"
+            ],
+            "output": "Marcus"
+        },
+        {
+            "inputs": [
+                "Malissa Marcus"
+            ],
+            "output": "Marcus"
+        },
+        {
+            "inputs": [
+                "Alaina Partida"
+            ],
+            "output": "Partida"
+        },
+        {
+            "inputs": [
+                "Alaina Partida"
+            ],
+            "output": "Partida"
+        },
+        {
+            "inputs": [
+                "Alaina Partida"
+            ],
+            "output": "Partida"
+        },
+        {
+            "inputs": [
+                "Trinidad Mulloy"
+            ],
+            "output": "Mulloy"
+        },
+        {
+            "inputs": [
+                "Trinidad Mulloy"
+            ],
+            "output": "Mulloy"
+        },
+        {
+            "inputs": [
+                "Trinidad Mulloy"
+            ],
+            "output": "Mulloy"
+        },
+        {
+            "inputs": [
+                "Carlene Garrard"
+            ],
+            "output": "Garrard"
+        },
+        {
+            "inputs": [
+                "Carlene Garrard"
+            ],
+            "output": "Garrard"
+        },
+        {
+            "inputs": [
+                "Carlene Garrard"
+            ],
+            "output": "Garrard"
+        },
+        {
+            "inputs": [
+                "Melodi Chism"
+            ],
+            "output": "Chism"
+        },
+        {
+            "inputs": [
+                "Melodi Chism"
+            ],
+            "output": "Chism"
+        },
+        {
+            "inputs": [
+                "Melodi Chism"
+            ],
+            "output": "Chism"
+        },
+        {
+            "inputs": [
+                "Bess Chilcott"
+            ],
+            "output": "Chilcott"
+        },
+        {
+            "inputs": [
+                "Bess Chilcott"
+            ],
+            "output": "Chilcott"
+        },
+        {
+            "inputs": [
+                "Bess Chilcott"
+            ],
+            "output": "Chilcott"
+        },
+        {
+            "inputs": [
+                "Chong Aylward"
+            ],
+            "output": "Aylward"
+        },
+        {
+            "inputs": [
+                "Chong Aylward"
+            ],
+            "output": "Aylward"
+        },
+        {
+            "inputs": [
+                "Chong Aylward"
+            ],
+            "output": "Aylward"
+        },
+        {
+            "inputs": [
+                "Jani Ramthun"
+            ],
+            "output": "Ramthun"
+        },
+        {
+            "inputs": [
+                "Jani Ramthun"
+            ],
+            "output": "Ramthun"
+        },
+        {
+            "inputs": [
+                "Jani Ramthun"
+            ],
+            "output": "Ramthun"
+        },
+        {
+            "inputs": [
+                "Jacquiline Heintz"
+            ],
+            "output": "Heintz"
+        },
+        {
+            "inputs": [
+                "Jacquiline Heintz"
+            ],
+            "output": "Heintz"
+        },
+        {
+            "inputs": [
+                "Jacquiline Heintz"
+            ],
+            "output": "Heintz"
+        },
+        {
+            "inputs": [
+                "Hayley Marquess"
+            ],
+            "output": "Marquess"
+        },
+        {
+            "inputs": [
+                "Hayley Marquess"
+            ],
+            "output": "Marquess"
+        },
+        {
+            "inputs": [
+                "Hayley Marquess"
+            ],
+            "output": "Marquess"
+        },
+        {
+            "inputs": [
+                "Andria Spagnoli"
+            ],
+            "output": "Spagnoli"
+        },
+        {
+            "inputs": [
+                "Andria Spagnoli"
+            ],
+            "output": "Spagnoli"
+        },
+        {
+            "inputs": [
+                "Andria Spagnoli"
+            ],
+            "output": "Spagnoli"
+        },
+        {
+            "inputs": [
+                "Irwin Covelli"
+            ],
+            "output": "Covelli"
+        },
+        {
+            "inputs": [
+                "Irwin Covelli"
+            ],
+            "output": "Covelli"
+        },
+        {
+            "inputs": [
+                "Irwin Covelli"
+            ],
+            "output": "Covelli"
+        },
+        {
+            "inputs": [
+                "Gertude Montiel"
+            ],
+            "output": "Montiel"
+        },
+        {
+            "inputs": [
+                "Gertude Montiel"
+            ],
+            "output": "Montiel"
+        },
+        {
+            "inputs": [
+                "Gertude Montiel"
+            ],
+            "output": "Montiel"
+        },
+        {
+            "inputs": [
+                "Stefany Reily"
+            ],
+            "output": "Reily"
+        },
+        {
+            "inputs": [
+                "Stefany Reily"
+            ],
+            "output": "Reily"
+        },
+        {
+            "inputs": [
+                "Stefany Reily"
+            ],
+            "output": "Reily"
+        },
+        {
+            "inputs": [
+                "Rae Mcgaughey"
+            ],
+            "output": "Mcgaughey"
+        },
+        {
+            "inputs": [
+                "Rae Mcgaughey"
+            ],
+            "output": "Mcgaughey"
+        },
+        {
+            "inputs": [
+                "Rae Mcgaughey"
+            ],
+            "output": "Mcgaughey"
+        },
+        {
+            "inputs": [
+                "Cruz Latimore"
+            ],
+            "output": "Latimore"
+        },
+        {
+            "inputs": [
+                "Cruz Latimore"
+            ],
+            "output": "Latimore"
+        },
+        {
+            "inputs": [
+                "Cruz Latimore"
+            ],
+            "output": "Latimore"
+        },
+        {
+            "inputs": [
+                "Maryann Casler"
+            ],
+            "output": "Casler"
+        },
+        {
+            "inputs": [
+                "Maryann Casler"
+            ],
+            "output": "Casler"
+        },
+        {
+            "inputs": [
+                "Maryann Casler"
+            ],
+            "output": "Casler"
+        },
+        {
+            "inputs": [
+                "Annalisa Gregori"
+            ],
+            "output": "Gregori"
+        },
+        {
+            "inputs": [
+                "Annalisa Gregori"
+            ],
+            "output": "Gregori"
+        },
+        {
+            "inputs": [
+                "Annalisa Gregori"
+            ],
+            "output": "Gregori"
+        },
+        {
+            "inputs": [
+                "Jenee Pannell"
+            ],
+            "output": "Pannell"
+        },
+        {
+            "inputs": [
+                "Jenee Pannell"
+            ],
+            "output": "Pannell"
+        },
+        {
+            "inputs": [
+                "Jenee Pannell"
+            ],
+            "output": "Pannell"
+        },
+        {
+            "inputs": [
+                "Launa Withers"
+            ],
+            "output": "Withers"
+        },
+        {
+            "inputs": [
+                "Lakenya Edison"
+            ],
+            "output": "Edison"
+        },
+        {
+            "inputs": [
+                "Brendan Hage"
+            ],
+            "output": "Hage"
+        },
+        {
+            "inputs": [
+                "Bradford Lango"
+            ],
+            "output": "Lango"
+        },
+        {
+            "inputs": [
+                "Rudolf Akiyama"
+            ],
+            "output": "Akiyama"
+        },
+        {
+            "inputs": [
+                "Lara Constable"
+            ],
+            "output": "Constable"
+        },
+        {
+            "inputs": [
+                "Madelaine Ghoston"
+            ],
+            "output": "Ghoston"
+        },
+        {
+            "inputs": [
+                "Salley Hornak"
+            ],
+            "output": "Hornak"
+        },
+        {
+            "inputs": [
+                "Micha Junkin"
+            ],
+            "output": "Junkin"
+        },
+        {
+            "inputs": [
+                "Teddy Bobo"
+            ],
+            "output": "Bobo"
+        },
+        {
+            "inputs": [
+                "Coralee Scalia"
+            ],
+            "output": "Scalia"
+        },
+        {
+            "inputs": [
+                "Jeff Quashie"
+            ],
+            "output": "Quashie"
+        },
+        {
+            "inputs": [
+                "Vena Babiarz"
+            ],
+            "output": "Babiarz"
+        },
+        {
+            "inputs": [
+                "Karrie Lain"
+            ],
+            "output": "Lain"
+        },
+        {
+            "inputs": [
+                "Tobias Dermody"
+            ],
+            "output": "Dermody"
+        },
+        {
+            "inputs": [
+                "Celsa Hopkins"
+            ],
+            "output": "Hopkins"
+        },
+        {
+            "inputs": [
+                "Kimberley Halpern"
+            ],
+            "output": "Halpern"
+        },
+        {
+            "inputs": [
+                "Phillip Rowden"
+            ],
+            "output": "Rowden"
+        },
+        {
+            "inputs": [
+                "Elias Neil"
+            ],
+            "output": "Neil"
+        },
+        {
+            "inputs": [
+                "Lashanda Cortes"
+            ],
+            "output": "Cortes"
+        },
+        {
+            "inputs": [
+                "Mackenzie Spell"
+            ],
+            "output": "Spell"
+        },
+        {
+            "inputs": [
+                "Kathlyn Eccleston"
+            ],
+            "output": "Eccleston"
+        },
+        {
+            "inputs": [
+                "Georgina Brescia"
+            ],
+            "output": "Brescia"
+        },
+        {
+            "inputs": [
+                "Beata Miah"
+            ],
+            "output": "Miah"
+        },
+        {
+            "inputs": [
+                "Desiree Seamons"
+            ],
+            "output": "Seamons"
+        },
+        {
+            "inputs": [
+                "Jeanice Soderstrom"
+            ],
+            "output": "Soderstrom"
+        },
+        {
+            "inputs": [
+                "Mariel Jurgens"
+            ],
+            "output": "Jurgens"
+        },
+        {
+            "inputs": [
+                "Alida Bogle"
+            ],
+            "output": "Bogle"
+        },
+        {
+            "inputs": [
+                "Jacqualine Olague"
+            ],
+            "output": "Olague"
+        },
+        {
+            "inputs": [
+                "Joaquin Clasen"
+            ],
+            "output": "Clasen"
+        },
+        {
+            "inputs": [
+                "Samuel Richert"
+            ],
+            "output": "Richert"
+        },
+        {
+            "inputs": [
+                "Malissa Marcus"
+            ],
+            "output": "Marcus"
+        },
+        {
+            "inputs": [
+                "Alaina Partida"
+            ],
+            "output": "Partida"
+        },
+        {
+            "inputs": [
+                "Trinidad Mulloy"
+            ],
+            "output": "Mulloy"
+        },
+        {
+            "inputs": [
+                "Carlene Garrard"
+            ],
+            "output": "Garrard"
+        },
+        {
+            "inputs": [
+                "Melodi Chism"
+            ],
+            "output": "Chism"
+        },
+        {
+            "inputs": [
+                "Bess Chilcott"
+            ],
+            "output": "Chilcott"
+        },
+        {
+            "inputs": [
+                "Chong Aylward"
+            ],
+            "output": "Aylward"
+        },
+        {
+            "inputs": [
+                "Jani Ramthun"
+            ],
+            "output": "Ramthun"
+        },
+        {
+            "inputs": [
+                "Jacquiline Heintz"
+            ],
+            "output": "Heintz"
+        },
+        {
+            "inputs": [
+                "Hayley Marquess"
+            ],
+            "output": "Marquess"
+        },
+        {
+            "inputs": [
+                "Andria Spagnoli"
+            ],
+            "output": "Spagnoli"
+        },
+        {
+            "inputs": [
+                "Irwin Covelli"
+            ],
+            "output": "Covelli"
+        },
+        {
+            "inputs": [
+                "Gertude Montiel"
+            ],
+            "output": "Montiel"
+        },
+        {
+            "inputs": [
+                "Stefany Reily"
+            ],
+            "output": "Reily"
+        },
+        {
+            "inputs": [
+                "Rae Mcgaughey"
+            ],
+            "output": "Mcgaughey"
+        },
+        {
+            "inputs": [
+                "Cruz Latimore"
+            ],
+            "output": "Latimore"
+        },
+        {
+            "inputs": [
+                "Maryann Casler"
+            ],
+            "output": "Casler"
+        },
+        {
+            "inputs": [
+                "Annalisa Gregori"
+            ],
+            "output": "Gregori"
+        },
+        {
+            "inputs": [
+                "Jenee Pannell"
+            ],
+            "output": "Pannell"
+        }
+    ]
+}

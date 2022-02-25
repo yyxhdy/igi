@@ -1,0 +1,64 @@
+{
+    "terminals": [
+        "",
+        " ",
+        "1",
+        "2",
+        "3",
+        "4",
+        "apple",
+        "bananas",
+        "strawberries",
+        "oranges",
+        ",",
+        -1,
+        0,
+        1,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "one, 1"
+            ],
+            "output": "one apple"
+        },
+        {
+            "inputs": [
+                "two, 2"
+            ],
+            "output": "two bananas"
+        },
+        {
+            "inputs": [
+                "three, 3"
+            ],
+            "output": "three strawberries"
+        },
+        {
+            "inputs": [
+                "four, 4"
+            ],
+            "output": "four oranges"
+        }
+    ]
+}

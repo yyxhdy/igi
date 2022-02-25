@@ -1,0 +1,60 @@
+{
+    "terminals": [
+        "",
+        " ",
+        "_",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "0",
+        -1,
+        0,
+        1,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "2283-332-44543 CAP DDT PPL445_ HEEN PAX 77820"
+            ],
+            "output": "HEEN PAX 77820"
+        },
+        {
+            "inputs": [
+                "44372-33-3223 TYYTE CAP BOX 1550 244 BOX PPSSA223_ PAX"
+            ],
+            "output": "PAX"
+        },
+        {
+            "inputs": [
+                "PRECISE 77 CLEAR BLUE 99WIE_ BOX 4403 PAX SSKA"
+            ],
+            "output": "BOX 4403 PAX SSKA"
+        }
+    ]
+}

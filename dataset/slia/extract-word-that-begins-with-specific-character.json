@@ -1,0 +1,51 @@
+{
+    "terminals": [
+        "",
+        " ",
+        "_",
+        -1,
+        0,
+        1,
+        2,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "this is a _username in the middle"
+            ],
+            "output": "_username"
+        },
+        {
+            "inputs": [
+                "twitter names look like= _name"
+            ],
+            "output": "_name"
+        },
+        {
+            "inputs": [
+                "with two _name1 and _name2"
+            ],
+            "output": "_name1"
+        }
+    ]
+}

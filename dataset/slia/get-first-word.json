@@ -1,0 +1,49 @@
+{
+    "terminals": [
+        "",
+        " ",
+        -1,
+        0,
+        1,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "The quick brown fox."
+            ],
+            "output": "The"
+        },
+        {
+            "inputs": [
+                "quick brown fox."
+            ],
+            "output": "quick"
+        },
+        {
+            "inputs": [
+                "fox"
+            ],
+            "output": ""
+        }
+    ]
+}

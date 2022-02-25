@@ -1,0 +1,53 @@
+{
+    "terminals": [
+        "",
+        " ",
+        "1",
+        "9",
+        -1,
+        0,
+        1,
+        2,
+        3,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "geb. 14 oct 1956 Westerkerk HRL"
+            ],
+            "output": "Westerkerk HRL"
+        },
+        {
+            "inputs": [
+                "geb. 14 oct 1956 "
+            ],
+            "output": ""
+        },
+        {
+            "inputs": [
+                "geb. 15 feb 1987 Westerkerk HRL"
+            ],
+            "output": "Westerkerk HRL"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "terminals": [
+        "",
+        " ",
+        "ssp.",
+        -1,
+        0,
+        1,
+        true,
+        false
+    ],
+    "primitives": [
+        "CAT",
+        "REP",
+        "AT",
+        "ITS",
+        "SITE",
+        "SUBSTR",
+        "ADD",
+        "SUB",
+        "LEN",
+        "STI",
+        "IITE",
+        "IND",
+        "EQ",
+        "PRF",
+        "SUF",
+        "CONT"
+    ],
+    "examples": [
+        {
+            "inputs": [
+                "Polygonum amphibium"
+            ],
+            "output": "Polygonum"
+        },
+        {
+            "inputs": [
+                "Hippuris vulgaris"
+            ],
+            "output": "Hippuris"
+        },
+        {
+            "inputs": [
+                "Lysimachia vulgaris"
+            ],
+            "output": "Lysimachia"
+        },
+        {
+            "inputs": [
+                "Juncus bulbosus ssp. bulbosus"
+            ],
+            "output": "Juncus bulbosus"
+        },
+        {
+            "inputs": [
+                "Lycopus europaeus ssp. europaeus"
+            ],
+            "output": "Lycopus europaeus"
+        },
+        {
+            "inputs": [
+                "Nymphaea alba"
+            ],
+            "output": "Nymphaea"
+        }
+    ]
+}
